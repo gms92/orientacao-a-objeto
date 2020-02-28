@@ -3,6 +3,10 @@ public class Funcionarios {
     private String cpf;
     protected double salario;
 
+    public double getBonus(){
+        return salario*0.05;
+    }
+
 
     public double getSalario() {
         return salario;
