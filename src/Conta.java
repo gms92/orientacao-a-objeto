@@ -4,6 +4,14 @@ public class Conta {
     private int numero;
     private Cliente titular = new Cliente();
 
+    //Constructor
+    public Conta(int agencia,int numero){
+        this.agencia=agencia;
+        this.numero=numero;
+        System.out.println("Criando uma conta...");
+
+    }
+
     public void deposita(double valor) {
         saldo += valor;
     }
