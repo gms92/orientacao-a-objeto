@@ -2,13 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b3645b9-a722-46c0-bf1f-c59a71f33588" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Herança2/Herança2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herança2/src/Administrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herança2/src/Autenticavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herança2/src/Funcionarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herança2/src/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herança2/src/SistemaInterno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herança2/src/TesteSistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Orientação a Objeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Administrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControleBonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EditorVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FuncionarioAutenticavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaInterno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestaReferencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TesteContas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TesteSistema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-=======
-      <change beforePath="$PROJECT_DIR$/src/Funcionarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionarios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TesteGerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TesteGerente.java" afterDir="false" />
->>>>>>> f24fd21e1bcd12c165c79eac17352c49d8861c99
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +45,6 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1YPyt0s1pzEnrGmQzKulVgJrcUU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -43,16 +55,21 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.TesteGerente">
-    <configuration name="MostraSaldo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MostraSaldo" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TesteSistema (1)">
+    <configuration name="TestaReferencias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestaReferencias" />
       <module name="Orientação a Objeto" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaGetESet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestaGetESet" />
+    <configuration name="TesteContas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteContas" />
       <module name="Orientação a Objeto" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,11 +82,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteSistema (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteSistema" />
+      <module name="Herança2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteSistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TesteSistema" />
+      <module name="Orientação a Objeto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteSistema (1)" />
+        <item itemvalue="Application.TesteSistema" />
+        <item itemvalue="Application.TesteContas" />
+        <item itemvalue="Application.TestaReferencias" />
         <item itemvalue="Application.TesteGerente" />
-        <item itemvalue="Application.TestaGetESet" />
-        <item itemvalue="Application.MostraSaldo" />
       </list>
     </recent_temporary>
   </component>
@@ -91,29 +124,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="917" y="205" width="374" height="621" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582912085587" />
-    <state width="1876" height="262" key="GridCell.Tab.0.bottom" timestamp="1582917890512">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1235" height="289" key="GridCell.Tab.0.bottom" timestamp="1583122870149">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1876" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582917890512" />
-    <state width="1235" height="276" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1582860246765" />
-    <state width="1876" height="262" key="GridCell.Tab.0.center" timestamp="1582917890512">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1235" height="289" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1583122870149" />
+    <state width="1235" height="289" key="GridCell.Tab.0.center" timestamp="1583122870149">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1876" height="262" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582917890512" />
-    <state width="1235" height="276" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1582860246765" />
-    <state width="1876" height="262" key="GridCell.Tab.0.left" timestamp="1582917890512">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1235" height="289" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1583122870149" />
+    <state width="1235" height="289" key="GridCell.Tab.0.left" timestamp="1583122870149">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1876" height="262" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582917890512" />
-    <state width="1235" height="276" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1582860246764" />
-    <state width="1876" height="262" key="GridCell.Tab.0.right" timestamp="1582917890512">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1235" height="289" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1583122870149" />
+    <state width="1235" height="289" key="GridCell.Tab.0.right" timestamp="1583122870149">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1876" height="262" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582917890512" />
-    <state width="1235" height="276" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1582860246765" />
-    <state x="786" y="267" key="run.anything.popup" timestamp="1582914781880">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1235" height="289" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1583122870149" />
+    <state x="963" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1583087401765">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="963" y="346" key="com.intellij.ide.util.TipDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1583087401765" />
+    <state x="1337" y="143" width="1157" height="748" key="new project wizard" timestamp="1583122642407">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1337" y="143" width="1157" height="748" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1583122642407" />
+    <state x="1048" y="267" key="run.anything.popup" timestamp="1583095679903">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="786" y="267" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582914781880" />
+    <state x="1048" y="267" key="run.anything.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1583095679903" />
   </component>
 </project>
