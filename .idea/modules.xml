@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Herança2/Herança2.iml" filepath="$PROJECT_DIR$/Herança2/Herança2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Orientação a Objeto.iml" filepath="$PROJECT_DIR$/Orientação a Objeto.iml" />
     </modules>
   </component>

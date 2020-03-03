@@ -1,21 +1,20 @@
-public class Gerente extends Autenticavel {
+public class Administrador extends Funcionarios implements Autenticavel {
 
     private int senha;
 
     public boolean autentica(int senha) {
-        if(this.senha == senha) {
+        if (this.senha == senha) {
             return true;
         } else {
             return false;
         }
-
     }
+
     public void setSenha(int senha) {
         this.senha = senha;
     }
 
     public double getBonus() {
-        return super.getBonus() + super.getSalario();
+        return 50;
     }
 }
-
